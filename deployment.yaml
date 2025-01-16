@@ -22,5 +22,5 @@ spec:
           protocol: TCP
         env:
         - name: ECHO_TEXT
-          value: Hello World!
+          value: Labas vakaras, Benai!
 
